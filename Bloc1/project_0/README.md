@@ -1,4 +1,0 @@
-# SFDS
-kfkfkfkfkf\
-##
-dfdffddcdssd wer
