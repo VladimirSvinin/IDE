@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #Folder with the data for project 1(CV analysis)
-C:\Обучение\SF\IDE\Bloc1\PROJECT-1. Анализ резюме из HeadHunter\data/
+C:\Обучение\SF\IDE\Bloc1\PROJECT-1. Анализ резюме из HeadHunter\data/*
 # Distribution / packaging
 .Python
 build/
