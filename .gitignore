@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+#Folder with the data for project 1(CV analysis)
+
 # Distribution / packaging
 .Python
 build/
@@ -160,7 +162,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-
-# data folders
-# data folders
-data/*
+/Bloc1/PROJECT-1. Анализ резюме из HeadHunter/data/dst-3.0_16_1_hh_database.csv
+/Bloc1/PROJECT-1. Анализ резюме из HeadHunter/data/ExchangeRates.csv
+/Bloc1/PROJECT-1. Анализ резюме из HeadHunter/data/*.csv
+/Bloc2/PYTHON-16. Как выгружать данные из файлов разных форматов/data
